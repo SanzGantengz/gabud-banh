@@ -1,0 +1,19 @@
+{
+   "compilerOptions": {
+      "checkJs": false,
+      "allowJs": false,
+      "moduleResolution": "node",
+      "target": "es2018",
+      "module": "commonjs",
+      "importHelpers": true,
+      "lib": [
+         "es2018"
+      ]
+   },
+   "include": [
+      "*.ts"
+   ],
+   "exclude": [
+      "node_modules"
+   ]
+}
